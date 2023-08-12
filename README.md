@@ -1,16 +1,13 @@
 # Bank-behaviour-scorecard-master
-This is banking project made in using machine learning alogrithm. 
 
-Project Description which was provided was given:
-A bank has given data of user’s bank wants you to make a model that can be used to predict customer defaulter on his EMI payment.
+This project involves the creation of a banking application utilizing machine learning algorithms.
 
-This project was to predict the risk while doing the transection of crediting amount from the bank account.
+The project's objective, as outlined in the provided description, was to develop a predictive model capable of identifying potential defaulters among a bank's customers based on their EMI payment behavior.
 
-DATA:
-The dataset was provided. the dataset contain columns and there description. There was test and train dataset provided to us. all the preprocessing was done using pandas and the data cleaning also(removing all blank cells,etc). the data visusisation was also seen to check the representation of dataset.
+The project's focus was on assessing the risk associated with transactions involving the transfer of funds from bank accounts.
 
-MODEL:
-The model which i used are Dession Trees, LogisticRegression and Hyperparameter tuning. By trying this i came to analysis that Hyperparameter tuning has better accuray then others.
+Regarding the dataset, a comprehensive dataset was furnished, containing various columns, each accompanied by a corresponding description. Both training and testing datasets were made available. Preprocessing tasks, including data cleaning (removal of empty cells, etc.), were conducted using the Pandas library. Data visualization techniques were also applied to gain insights into the dataset's distribution and characteristics.
 
-DATASET LINK:
-https://drive.google.com/drive/folders/1OwlGoW31f_jMzNacHukl-fu1JUF41rT4?usp=sharing
+For the modeling phase, multiple algorithms were employed, including Decision Trees, Logistic Regression, and Hyperparameter tuning. After experimentation, it was deduced that Hyperparameter tuning resulted in higher accuracy compared to the other methods.
+
+For access to the dataset, please refer to the following link: Dataset Link.

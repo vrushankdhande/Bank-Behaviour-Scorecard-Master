@@ -1,4 +1,4 @@
-# Bank-behaviour-scorecard-master
+# Bank Behaviour Scorecard Master
 
 This project involves the creation of a banking application utilizing machine learning algorithms.
 

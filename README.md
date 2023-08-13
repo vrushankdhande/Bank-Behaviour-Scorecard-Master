@@ -10,4 +10,4 @@ Regarding the dataset, a comprehensive dataset was furnished, containing various
 
 For the modeling phase, multiple algorithms were employed, including Decision Trees, Logistic Regression, and Hyperparameter tuning. After experimentation, it was deduced that Hyperparameter tuning resulted in higher accuracy compared to the other methods.
 
-For access to the dataset, please refer to the following link: Dataset Link.
+To access the dataset, please refer to the following link: Dataset Link.
